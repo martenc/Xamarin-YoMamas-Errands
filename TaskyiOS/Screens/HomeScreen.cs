@@ -67,7 +67,7 @@ namespace Tasky.Screens {
 		protected void PopulateTable()
 		{
 			tasks = TaskManager.GetTasks().ToList ();
-			Root = new RootElement("Yo Mama's todo list") {
+			Root = new RootElement("Yo Mama's Errands") {
 				new Section() {
 					from t in tasks
 					select (Element) new CheckboxElement ((t.Name==""?"<new task>":t.Name), t.Done)
