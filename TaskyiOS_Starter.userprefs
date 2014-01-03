@@ -2,14 +2,14 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone.7.0" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TaskyiOS/AppDelegate.cs">
     <Files>
-      <File FileName="TaskyiOS/ApplicationLayer/TaskDialog.cs" Line="15" Column="21" />
-      <File FileName="TaskyiOS/Screens/HomeScreen.cs" Line="81" Column="4" />
-      <File FileName="TaskyiOS/AppDelegate.cs" Line="32" Column="4" />
-      <File FileName="Tasky.Core/Contracts/BusinessEntityBase.cs" Line="4" Column="11" />
-      <File FileName="Tasky.Core/Contracts/IBusinessEntity.cs" Line="8" Column="1" />
-      <File FileName="Tasky.Core/TaskManager.cs" Line="25" Column="33" />
-      <File FileName="Tasky.Core/TaskRepository.cs" Line="84" Column="3" />
-      <File FileName="Tasky.Core/Task.cs" Line="19" Column="33" />
+      <File FileName="TaskyiOS/ApplicationLayer/TaskDialog.cs" Line="1" Column="1" />
+      <File FileName="TaskyiOS/Screens/HomeScreen.cs" Line="1" Column="1" />
+      <File FileName="TaskyiOS/AppDelegate.cs" Line="6" Column="1" />
+      <File FileName="Tasky.Core/Contracts/BusinessEntityBase.cs" Line="1" Column="1" />
+      <File FileName="Tasky.Core/Contracts/IBusinessEntity.cs" Line="1" Column="1" />
+      <File FileName="Tasky.Core/TaskManager.cs" Line="1" Column="1" />
+      <File FileName="Tasky.Core/TaskRepository.cs" Line="1" Column="1" />
+      <File FileName="Tasky.Core/Task.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,9 +17,10 @@
           <Node name="Tasky.Core.iOS_Starter" expanded="True">
             <Node name="Contracts" expanded="True" />
           </Node>
-          <Node name="TaskyiOS" expanded="True" selected="True">
+          <Node name="TaskyiOS" expanded="True">
             <Node name="ApplicationLayer" expanded="True" />
             <Node name="Screens" expanded="True" />
+            <Node name="AppDelegate.cs" selected="True" />
           </Node>
         </State>
       </Pad>
